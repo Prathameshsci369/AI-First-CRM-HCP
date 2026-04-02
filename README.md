@@ -49,7 +49,7 @@ Before running this project, ensure you have installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Prathameshsci369/AI-First-CRM-HCP.git
 cd AI-First-CRM-HCP
 ```
 
